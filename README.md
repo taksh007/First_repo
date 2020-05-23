@@ -1,2 +1,2 @@
 # Rainbow-Poem
-My first repository on Github
+This is a repo for my poem
