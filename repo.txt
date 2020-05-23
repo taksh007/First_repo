@@ -13,3 +13,4 @@ These are the colours of Rainbow.
 And the Unicorn
 Pony
 Covid-19
+Use sanitizer.
